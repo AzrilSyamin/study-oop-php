@@ -3,7 +3,7 @@
 - PDO Mysql
 
 Simple CRUD oop study,
-this project build with this [project - Study OOP PHP](https://gitlab.com/AzrilSyamin/study-mvc-oop-php)
+this project build with this [project - Study MVC OOP PHP](https://gitlab.com/AzrilSyamin/study-mvc-oop-php)
 
 ## Database
 - Database Name : study_oop;
